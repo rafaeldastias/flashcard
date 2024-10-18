@@ -21,3 +21,8 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+criaCartao(
+    'Relacionamento',
+    'Como ser fiel?',
+    'Aprena com o Rafael'
+)
